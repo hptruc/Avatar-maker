@@ -6,7 +6,6 @@ app.avatarCreator = (function(module) {
         $framePath  = $('#avatar-frame-path');
     var $avatarBtn  = $('#avatar-btn'),
         $avatarPath = $('#avatar-path');
-    var $finalAvatar= $('#final-avatar');
     var $generateBtn= $('#avatar-generate'),
         $downloadBtn= $('#avatar-download')
     var frameFile = null,
@@ -90,7 +89,7 @@ app.avatarCreator = (function(module) {
             imgObj.onload = function() {
                 count--;
                 if (!count) {
-                    $.each(imgObjs, function(idx, element) {
+                    $.each(imgObjs, function(idx) {
                         if (idx === 0) { /* Image is avatar */
                             var diff = compareWidthHeight(
                                 this.width, 
