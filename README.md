@@ -6,7 +6,7 @@ This project is an implementation of a feature that allows users to upload their
 ![Tux, the Linux mascot](https://hophuoctruc.files.wordpress.com/2017/12/untitled-1.png?w=809)
 
 ## Demo
-Check out the Avatar Maker demo at https://example.com.
+Check out the Avatar Maker demo at https://hophuoctruc.wordpress.com/2017/12/03/avatar-makeup-with-frame/
 
 ## Getting Started
 To get started, follow these steps:
