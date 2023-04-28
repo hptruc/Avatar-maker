@@ -1,4 +1,3 @@
-# Avatar Maker
 Avatar Maker is a JavaScript project that enables users to add frames to their profile pictures, creating a new customized image. The project serves as a demo, showcasing how such a feature can be easily implemented in JavaScript.
 
 ## Features
